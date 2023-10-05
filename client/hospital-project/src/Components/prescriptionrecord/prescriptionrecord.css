@@ -1,0 +1,25 @@
+.profile_border{
+    margin-top: 10%;
+    border: 1px solid black;
+    width: 50%;
+    height: 30vh;
+    padding: 4%;
+    display: flex;
+    border: none;
+
+}
+
+.img_size{
+    background-size: contain;
+    width: 60%;
+}
+
+.main_border{
+    border: 1px solid black;
+    width: 100%;
+    height: 70vh;
+}
+
+.font_size{
+    font-size: 110%;
+}
